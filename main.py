@@ -10,7 +10,6 @@ def print_hi(name):
 
 jkldsjfl sd
 
-sdfkljdslf
 sdlfjdl
 
 # Press the green button in the gutter to run the script.
